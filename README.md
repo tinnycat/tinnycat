@@ -9,7 +9,7 @@ Outside of academia, I enjoy spending time in nature—particularly hiking, biki
 
 ---
 ## *Skills I'm Building:*
-- Coding: Python, R, SQL, LaTex
+- Coding: Python, R, SQL, LaTeX
 - Methods: Multilevel Modeling, Causal Inference, Structural Equation Modeling, Text Analysis, Machine Learning
 
 
